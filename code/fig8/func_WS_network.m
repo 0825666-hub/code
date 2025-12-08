@@ -1,6 +1,6 @@
 function [matrix, x, y] = func_WS_network(Num, K, Per)
 
-rng(1);
+%rng(1);
 % Construct small-world network
 angle = 2*pi/Num:2*pi/Num:2*pi;  
 x     = 100 * sin(angle);
