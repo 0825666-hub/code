@@ -3,7 +3,7 @@ fp1 = fopen('.\data.txt', 'w');
 %% Generate connection matrix============================
 TT = 80;
 K = 2;
-Per = 0.85;
+Per = 0.80;
 %% Run multiple simulations (10000 different random seeds)
 num_runs = 10000;
 seeds = randi([1, 100000], num_runs, 1);  % Generate 10000 random integer seeds between 1 and 100000
