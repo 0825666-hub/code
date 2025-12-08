@@ -17,7 +17,7 @@ T1 = 2 * pi * m_period / w;
 T0 = 2 * pi * 10 / w;
 
 gc = 0.2;         % Conductance between two compartments
-p_ = 0.7;         % Ratio of dendritic area to total cell area
+p_ = 0.6;         % Ratio of dendritic area to total cell area
 
 %% D value range and settings
 D_values = 0:0.25:20;  
