@@ -18,7 +18,7 @@ T1 = 2 * pi * m_period / w;
 T0 = 2 * pi * 20 / w;                   
 
 gc = 0.2;                    % Synaptic conductance between two compartments     
-p_ = 0.5;                    % Ratio of dendritic area to total cell area     
+p_ = 0.6;                    % Ratio of dendritic area to total cell area     
 gg_ = 0.04;                  % Conductance between nodes (coupling strength)    
 
 fp1 = fopen('.\data.txt', 'w');
