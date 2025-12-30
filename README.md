@@ -1,4 +1,4 @@
-# Neuronal morphology and network topology modulate weak-signal responses in single neurons and small-world networks
+# code readme
 ## 1.fig2
 ### Run the code in the fig2 folder to obtain the data for plotting fig2.
 ## 2.fig3
